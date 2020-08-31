@@ -1,0 +1,1 @@
+{"version":3,"sources":["Article.css","App.css"],"names":[],"mappings":"AAAA,MACE,aACF,CAEA,MACE,aACF,CAEA,MACE,aACF,CCVA,KACE,wBACF,CAEA,GACE,aACF","file":"main.0acc2731.chunk.css","sourcesContent":[".head {\n  color: #8fc0a9;\n}\n\n.date {\n  color: #c8d5b9;\n}\n\n.text {\n  color: #68b0ab;\n}\n","html {\n  background-color: #faf3dd;\n}\n\nh1 {\n  color: #00416d;\n}\n"]}
